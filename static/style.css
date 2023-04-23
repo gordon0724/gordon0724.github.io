@@ -1,0 +1,39 @@
+.navbar-inverse{
+  background-color:crimson;
+}
+
+.navbar-inverse .navbar-nav>.active>a{
+  background-color:crimson;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+  color:gold;
+}
+
+.navbar-inverse .navbar-brand{
+  color:white;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover{
+  background-color:darkorange;
+}
+
+.navbar-inverse .navbar-nav>.active>a{
+  color:gold;
+}
+
+.navbar-inverse .navbar-nav>.active>a:hover{
+  background-color:darkorange;
+}
+
+.btn-default:hover{
+  color:rgb(235, 201, 14);
+}
+
+.btn-default:hover{
+   background-color:rgb(197, 26, 60);
+}
+
+.btn-block:hover{
+   background-color:rgb(255, 77, 112);
+}
